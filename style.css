@@ -46,6 +46,7 @@ nav ul li a {
     background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('imgacceuil.jpg');
     background-size: cover;
     background-position: center;
+    min-height:400px;
     display: flex;
     align-items: center;
     justify-content: center;
