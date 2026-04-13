@@ -100,17 +100,19 @@ nav ul li a {
 .price { color: #4CAF50; font-weight: bold; font-size: 1.2rem; display: block; margin: 10px 0; }
 
 /* Vidéo */
+.video-container {
+    width :100% ;
+    max-width: 500px;
+    margin:20px auto;
+    display:block;
+}
 .video-container video {
     width: 100%;
     max-width: 100%;
     border-radius: 10px;
     height: auto;
 }
-.video-container {
-    width :100% ;
-    max-width: 300px;
-    margin:20px auto;
-    display:block;
+
     
 
 /* Note Box */
